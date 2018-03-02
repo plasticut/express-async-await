@@ -1,0 +1,10 @@
+{
+  "name": "express-asyncawait",
+  "version": "1.0.0",
+  "description": "Express.js async/await extention",
+  "author": {
+    "name": "Maxim Dorokhov",
+    "email": "plasticut@gmail.com"
+  },
+  "license": "MIT"
+}
