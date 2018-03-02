@@ -1,5 +1,5 @@
 {
-  "name": "express-asyncawait",
+  "name": "@plasticut/express-async-await",
   "version": "1.0.0",
   "description": "Express.js async/await extention",
   "author": {
@@ -22,5 +22,9 @@
   },
   "engines": {
     "node": "8.9.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plasticut/express-asyncawait.git"
+  },
 }
