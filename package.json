@@ -1,6 +1,6 @@
 {
   "name": "@plasticut/express-async-await",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express.js async/await extention",
   "author": {
     "name": "Maxim Dorokhov",
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plasticut/express-asyncawait.git"
+    "url": "git+https://github.com/plasticut/express-async-await.git"
   }
 }
